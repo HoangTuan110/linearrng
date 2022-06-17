@@ -19,3 +19,7 @@ Clone this repo, then run:
 go build
 ./linearrng
 ```
+
+# License
+
+MIT
